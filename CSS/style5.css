@@ -1,0 +1,43 @@
+*{
+  padding:0;
+  margin:0;
+  color:white
+}
+
+#navbar{
+  height:60px;
+  background-color: #0f1111;
+
+}
+button{
+  background-color:#f08804;
+}
+
+#logo{
+  color:#f08804;
+  font-size: 25px;
+
+}
+
+a{
+  margin-right:200px;
+  text-decoration: none;    /* this removes the underline from links */
+
+}
+
+#contentbox {
+  height:500px;
+}
+.content{
+  height:100px;
+  width:100px;
+  border:black 2px solid;
+  display:inline-block
+}
+
+footer {
+  background-color: #232f3e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}

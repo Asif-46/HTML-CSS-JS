@@ -1,0 +1,15 @@
+h2{
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+  scrollbar-gutter: stable;
+  scrollbar-color: #888 #f0f0f0;
+  
+}
+
+#out{     /* this is ID selector*/
+  text-align: center;
+}
+#in{    
+  text-decoration: dotted underline;
+}

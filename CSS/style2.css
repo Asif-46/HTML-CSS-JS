@@ -1,0 +1,31 @@
+div{
+  height:100px;
+  background-color: aquamarine;
+  width:100px;
+
+  /*border-width: 2px;
+  border-style:solid;
+  border-color: black;*/
+
+  border:2px solid black;   /* this is shorthand for the above three properties */
+  /*border-radius: 15px;      /* this is for rounded corners */
+
+  /*padding-left: 15px;
+  padding-right:15px;
+  padding-top: 15px;
+  padding-bottom: 15px; */
+
+  padding:1px 2px 3px 4px; /* this is shorthand for the above four properties */
+
+  margin : 10px 50px 30px 40px; /* this is shorthand for the above four properties */
+}
+h1{
+  width:200px;
+  height:50px;
+  background-color: pink;
+
+  border-width:5px;
+  border-style:dashed;
+  border-color:brown;
+  text-align: center;
+}

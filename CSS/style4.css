@@ -1,0 +1,12 @@
+div{
+  display:inline-block;   /*to make div inline*/
+  width:100px;
+  height:100px;
+  padding:25px;
+  margin:25px;
+}
+
+/* Alpha channel */
+#first {
+  background-color: rgba(255, 0, 0, 0.25); /* Red with 25% opacity   (value lies b/w 0&1)*/
+}
